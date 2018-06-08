@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="users">
+
+ftpserver.user.anonymous.userpassword       =\n
+ftpserver.user.anonymous.homedirectory      =/mnt/sdcard\n
+ftpserver.user.anonymous.enableflag         =false\n
+ftpserver.user.anonymous.writepermission    =false\n
+ftpserver.user.anonymous.maxloginnumber     =2\n
+ftpserver.user.anonymous.maxloginperip      =2\n
+ftpserver.user.anonymous.idletime           =300\n
+ftpserver.user.anonymous.uploadrate         =4800\n
+ftpserver.user.anonymous.downloadrate       =4800\n
+
+#1234
+ftpserver.user.admin.userpassword         =2018\n
+ftpserver.user.admin.homedirectory        =/mnt/sdcard\n
+ftpserver.user.admin.enableflag           =true\n
+ftpserver.user.admin.writepermission      =true\n
+ftpserver.user.admin.maxloginnumber       =2\n
+ftpserver.user.admin.maxloginperip        =2\n
+ftpserver.user.admin.idletime             =300\n
+ftpserver.user.admin.uploadrate           =48000\n
+ftpserver.user.admin.downloadrate         =48000\n
+
+</string>
+</resources>
